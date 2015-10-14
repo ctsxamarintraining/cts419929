@@ -1,0 +1,5 @@
+/Users/NagaLaxmiChaitanya/Projects/Anonymous1/Anonymous1/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/NagaLaxmiChaitanya/Projects/Anonymous1/Anonymous1/bin/Debug/Anonymous1.exe.mdb
+/Users/NagaLaxmiChaitanya/Projects/Anonymous1/Anonymous1/bin/Debug/Anonymous1.exe
+/Users/NagaLaxmiChaitanya/Projects/Anonymous1/Anonymous1/obj/x86/Debug/Anonymous1.exe
+/Users/NagaLaxmiChaitanya/Projects/Anonymous1/Anonymous1/obj/x86/Debug/Anonymous1.exe.mdb
