@@ -1,0 +1,5 @@
+/Users/NagaLaxmiChaitanya/Projects/Collection2/Collection2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/NagaLaxmiChaitanya/Projects/Collection2/Collection2/bin/Debug/Collection2.exe.mdb
+/Users/NagaLaxmiChaitanya/Projects/Collection2/Collection2/bin/Debug/Collection2.exe
+/Users/NagaLaxmiChaitanya/Projects/Collection2/Collection2/obj/x86/Debug/Collection2.exe
+/Users/NagaLaxmiChaitanya/Projects/Collection2/Collection2/obj/x86/Debug/Collection2.exe.mdb

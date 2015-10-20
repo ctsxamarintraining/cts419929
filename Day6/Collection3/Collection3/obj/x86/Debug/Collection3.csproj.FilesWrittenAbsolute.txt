@@ -1,0 +1,5 @@
+/Users/NagaLaxmiChaitanya/Projects/Collection3/Collection3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/NagaLaxmiChaitanya/Projects/Collection3/Collection3/bin/Debug/Collection3.exe.mdb
+/Users/NagaLaxmiChaitanya/Projects/Collection3/Collection3/bin/Debug/Collection3.exe
+/Users/NagaLaxmiChaitanya/Projects/Collection3/Collection3/obj/x86/Debug/Collection3.exe
+/Users/NagaLaxmiChaitanya/Projects/Collection3/Collection3/obj/x86/Debug/Collection3.exe.mdb
