@@ -1,0 +1,7 @@
+/Users/NagaLaxmiChaitanya/Projects/XamarinForms/MasterDetailApplication/MasterDetailApplication/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/NagaLaxmiChaitanya/Projects/XamarinForms/MasterDetailApplication/MasterDetailApplication/bin/Debug/Xamarin.Forms.Core.dll
+/Users/NagaLaxmiChaitanya/Projects/XamarinForms/MasterDetailApplication/MasterDetailApplication/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/NagaLaxmiChaitanya/Projects/XamarinForms/MasterDetailApplication/MasterDetailApplication/bin/Debug/MasterDetailApplication.dll.mdb
+/Users/NagaLaxmiChaitanya/Projects/XamarinForms/MasterDetailApplication/MasterDetailApplication/bin/Debug/MasterDetailApplication.dll
+/Users/NagaLaxmiChaitanya/Projects/XamarinForms/MasterDetailApplication/MasterDetailApplication/obj/Debug/MasterDetailApplication.dll
+/Users/NagaLaxmiChaitanya/Projects/XamarinForms/MasterDetailApplication/MasterDetailApplication/obj/Debug/MasterDetailApplication.dll.mdb
