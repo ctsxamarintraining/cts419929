@@ -10,7 +10,7 @@ namespace MasterDetailApplication
 		{
 			
 			Content = new StackLayout { 
-				BackgroundColor = Color.Blue,
+				BackgroundColor = Color.Green,
 				VerticalOptions = LayoutOptions.Center,
 				Children = {	
 					new Label { Text = "Welcome to Mytab1 page" }

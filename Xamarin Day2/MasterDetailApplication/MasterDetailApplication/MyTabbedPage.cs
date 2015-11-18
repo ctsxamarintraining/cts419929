@@ -24,19 +24,23 @@ namespace MasterDetailApplication
 //				}
 //			});
 
-			//Color[] colors = { Color.Blue, Color.Olive, Color.Red,Color.Gray,Color.Pink };
+			Color[] colors = { Color.Blue, Color.Olive, Color.Red,Color.Gray,Color.Pink };
 			for (int i = 0; i < 4; i++) {
 				this.Children.Add (new ContentPage () {
+					BackgroundColor = colors[i],
 					Title = string.Format ("Tab{0}", i+1),
-					//BackgroundColor = colors(i),
 					Content = new StackLayout () {
 						Orientation = StackOrientation.Vertical,
 						VerticalOptions = LayoutOptions.Center,
+						HorizontalOptions = LayoutOptions.Center,
+						//BackgroundColor = colors[i],
 						Children = {
 							new Label () {
 								Text = string.Format ("Tab page{0}", i+1),
+							},
+							new Label () {
+								Text = string.Format ("Tab page{0}", i+1),
 							}
-
 						}
 					}
 				});
@@ -45,8 +49,8 @@ namespace MasterDetailApplication
 			}
 //			this.Children.Add (new MyTab1Page ());
 //			this.Children.Add (new MyTab2Page ());
-//			this.Children.Add (new MyTab1Page ());
-//			this.Children.Add (new MyTab2Page ());
+//			this.Children.Add (new MyTab3Page ());
+//			this.Children.Add (new MyTab4Page ());
 		
 		}
 	}

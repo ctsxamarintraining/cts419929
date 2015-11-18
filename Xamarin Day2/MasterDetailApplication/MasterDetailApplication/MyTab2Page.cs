@@ -9,6 +9,7 @@ namespace MasterDetailApplication
 		public MyTab2Page ()
 		{
 			Content = new StackLayout { 
+				BackgroundColor = Color.Gray,
 				Children = {
 					new Label { Text = "Welcome Tab2 Page" }
 				}
